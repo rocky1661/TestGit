@@ -51,6 +51,8 @@ public class MyInteger {
 		
 		System.out.println(test1.isOdd());
 		
+		System.out.println(test1.add(2));
+		
 		
 
 	}
